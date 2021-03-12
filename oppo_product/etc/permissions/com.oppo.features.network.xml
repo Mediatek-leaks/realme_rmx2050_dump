@@ -1,0 +1,5 @@
+<!-- This file is auto-generated.  DO NOT MODIFY. -->
+<permissions>
+    <!-- Zhi.Wang@TECH.NW.DATA, 2019/07/08, Add this for Temp DDS Switch -->
+    <feature name="oppo.network.tempdds.support" />
+</permissions>

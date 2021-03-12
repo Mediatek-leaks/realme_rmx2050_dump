@@ -1,0 +1,25 @@
+<permissions>
+    <!-- Dongting.Mei@PSW.MM.Display.Feature, 2019/07/26, add for heteromorphism on 19081 -->
+    <feature name="com.oppo.feature.screen.heteromorphism"/>
+    <!-- Xiaori.Yuan@PSW.Multimedia.Display.Service.Feature, 2018/05/22, Add for roundcorner -->
+    <feature name="oppo.roundcorner.support" />
+    <!-- Xiaori.Yuan@Display.Service.Feature, 2018/05/24, Add this for protect eyes -->
+    <feature name="oppo.eyeprotect.support" />
+    <!-- Xiaori.Yuan@Display.Service.Feature, 2018/07/27, Add this for fingerprint -->
+    <feature name="oppo.fingerprint.disable.dimlayer" />
+    <!-- YaoJun.Luo@ROM.SDK, 2018/05/12, add support display compat-->
+    <feature name="oppo.display.compat.support" />
+    <!-- Jinzhu.Han@MM.Display.Feature, 2019/05/24, add for dynamic cabc level-->
+    <feature name="cabc.level.dynamic.enable" />
+    <!-- Chenyang.Zhang@RM.MM.AuioServer.Policy, 2020/01/07, Add for DualHeadPhone -->
+    <feature name="realme.multimedia.dualheadphone"/>
+    <feature name="realme.multimedia.dualheadphone.lite"/>
+    <!-- #ifndef ODM_WT_EDIT -->
+    <!--Wang.Zhang@MM.AudioServer.Feature.2731579, 2020/04/23, add for support fm radio-->
+    <feature name="com.oppo.eng.fm.radio.support" />
+    <!-- #endif //ODM_WT_EDIT -->
+    <!-- #ifndef ODM_WT_EDIT -->
+    <!--Hongzhu.Su@ODM_WT.MM.Display.Lcd.,  2020/04/28, Add LCD feature-->
+    <feature name="oppo.exponential.brightness.mode"/>
+    <!-- #endif //ODM_WT_EDIT -->
+</permissions>
